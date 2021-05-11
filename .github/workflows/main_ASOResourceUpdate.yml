@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'ASOResourceUpdate'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6250fba089e74f0487d250e218e4e6b4 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_97fd322950af408cb9c13d67afb9fbd4 }}
         package: .
